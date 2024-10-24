@@ -1,5 +1,10 @@
 # cs_4372-Assignment_3
 
+## Shruti Bindingnavile - sxb180099
+## William Chandra - wac200001
+
+### The code should run as is. It includes the following packages
+
 ### !pip install tensorflow==2.14
 
  
